@@ -1,6 +1,6 @@
-# Lu Fafaaa — AAI JE Operations 2026 CBT Preparation
+# Fafaaa — AAI JE Operations 2026 CBT Preparation
 
-**Lu Fafaaa** is a full preparation platform for the **AAI Junior Executive (Operations) CBT on 21 October 2026**: full-length mocks in the exact exam pattern, previous papers, subject and topic practice, syllabus coverage, a mistake book, revision sheets, performance analytics and an admin panel.
+**Fafaaa** is a full preparation platform for the **AAI Junior Executive (Operations) CBT on 21 October 2026**: full-length mocks in the exact exam pattern, previous papers, subject and topic practice, syllabus coverage, a mistake book, revision sheets, performance analytics and an admin panel.
 
 **Stack:** Next.js 14 (App Router) · TypeScript · Tailwind CSS · Supabase (Postgres, Auth, RLS) · Recharts · Lucide.
 
@@ -135,4 +135,4 @@ The app was also tested end to end in a browser against real Supabase Auth and P
 
 ---
 
-*Lu Fafaaa is an independent preparation platform, not affiliated with the Airports Authority of India.*
+*Fafaaa is an independent preparation platform, not affiliated with the Airports Authority of India.*
