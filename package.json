@@ -1,0 +1,40 @@
+{
+  "name": "aai-je-ops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AAI Junior Executive (Operations) 2026 CBT preparation platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "seed:build": "python3 content/build_seed.py",
+    "db:test": "bash supabase/tests/run.sh supabase/tests/checks.sql supabase/tests/engine_checks.sql"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.1.0",
+    "@supabase/ssr": "^0.5.2",
+    "@supabase/supabase-js": "^2.46.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.460.0",
+    "next": "14.2.35",
+    "papaparse": "^5.4.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "read-excel-file": "^5.8.6",
+    "recharts": "^2.13.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.6",
+    "@types/papaparse": "^5.3.15",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "14.2.35",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3"
+  }
+}
