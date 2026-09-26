@@ -18,8 +18,8 @@ export function Brand({ href = "/dashboard" }: { href?: string }) {
     <Link href={href} className="flex items-center gap-2.5">
       <BrandMark />
       <div className="leading-tight">
-        <div className="text-sm font-semibold tracking-tight">AAI JE Operations</div>
-        <div className="text-[10px] font-medium uppercase tracking-[0.18em] text-fg-subtle">CBT Prep · 2026</div>
+        <div className="text-sm font-semibold tracking-tight">Lu Fafaaa</div>
+        <div className="text-[10px] font-medium uppercase tracking-[0.18em] text-fg-subtle">AAI JE Ops · 2026</div>
       </div>
     </Link>
   );

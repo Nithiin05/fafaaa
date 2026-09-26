@@ -3,7 +3,8 @@ import "@fontsource-variable/inter";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: { default: "AAI JE Operations 2026 — CBT Preparation", template: "%s · AAI JE Operations" },
+  applicationName: "Lu Fafaaa",
+  title: { default: "Lu Fafaaa — AAI JE Operations 2026 CBT Preparation", template: "%s · Lu Fafaaa" },
   description: "Full-length mocks, previous papers, subject and topic practice, and progress tracking for the AAI Junior Executive (Operations) CBT.",
   icons: { icon: "/icon.svg" },
 };

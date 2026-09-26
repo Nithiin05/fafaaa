@@ -84,7 +84,7 @@ export default function Landing() {
           ))}
         </div>
         <p className="mt-10 text-center text-xs text-fg-subtle">
-          Independent preparation platform. Not affiliated with the Airports Authority of India. Practice questions are original unless labelled as previous-paper questions.
+          Lu Fafaaa is an independent preparation platform, not affiliated with the Airports Authority of India. Practice questions are original unless labelled as previous-paper questions.
         </p>
       </section>
     </div>
